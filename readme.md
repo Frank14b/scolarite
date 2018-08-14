@@ -1,0 +1,2 @@
+<h1>zsSchools - gestion des etablissements scolaire du superieure <hr></h1>
+<p>Modules en cours : Gestion de la scolarite => gestion des notes, gestions des cours, gestion des absences & presences <br> Gestion des preinscription & concours</p>
